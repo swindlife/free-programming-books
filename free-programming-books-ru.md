@@ -1,23 +1,23 @@
 ### Index
 
-* [Списки книг](#meta-lists)
-* [Language Agnostic](#language-agnostic)
-  * [Облачные Вычисления](#Облачные-вычисления)
-  * [Работа c cетью](#Работа-с-сетью)
+* [0 - Language Agnostic](#1-language-agnostic)
   * [Open Source Ecosystem](#open-source-ecosystem)
+  * [Облачные Вычисления](#Облачные-вычисления)
   * [Парадигмы Программирования](#Парадигмы-программирования)
+  * [Работа c cетью](#Работа-с-сетью)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
 * [C++](#c-1)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
+* [Erlang](#erlang)
 * [Git](#git)
 * [Go](#go)
-* [Erlang](#erlang)
 * [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [jQuery](#jquery)
   * [Node.js](#nodejs)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
@@ -27,13 +27,13 @@
 * [Objective-C](#objective-c)
 * [Perl](#perl)
 * [PHP](#php)
-* [Python](#python)
 * [PostgreSQL](#postgresql)
+* [Python](#python)
 * [R](#r)
 * [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
   * [RSpec](#rspec)
-* [Ruby on Rails](#ruby-on-rails)
+  * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
 * [Scala](#scala)
 * [Scilab](#scilab)
@@ -43,7 +43,7 @@
 * [Параллельные технологии](#parallel)
 
 
-### Language Agnostic
+### 0 - Language Agnostic
 
 * [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf) (PDF)
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf) (PDF)
@@ -68,16 +68,16 @@
 
 #### Парадигмы программирования
 
-* [Введение в функциональное программирование](https://code.google.com/p/funprog-ru/) - John Harrison
+* [Введение в функциональное программирование](http://funprog-ru.github.io) - John Harrison
 * [Практика функционального программирования](http://fprog.ru) - журнал
 
 
 ### Assembly
 
-* [Ассемблер в Linux для программистов C](http://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
+* [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
-* [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) (PDF)
 * [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf) (PDF)
+* [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) (PDF)
 
 
 ### Bash
@@ -106,6 +106,7 @@
 
 ### CoffeeScript
 
+* [The Little Book on CoffeeScript](https://github.com/andrew--r/the-little-book-on-coffeescript) - перевод Андрея Романова
 * [Документация CoffeeScript](http://cidocs.ru/coffeescript/)
 
 
@@ -122,6 +123,11 @@
 * [Современный учебник JavaScript](http://learn.javascript.ru) - Илья Кантор
 
 
+#### jQuery
+
+* [jQuery для начинающих](http://anton.shevchuk.name/jquery-book/) - Антон Шевчук
+
+
 #### Node.js
 
 * [Node.js для начинающих](http://nodebeginner.ru)
@@ -129,7 +135,7 @@
 
 ### Git
 
-* [Pro Git](http://git-scm.com/book/ru)
+* [Pro Git](http://git-scm.com/book/ru/v2)
 * [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 * [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
 
@@ -180,8 +186,8 @@
 
 ### Objective-C
 
-* [Хрестоматия iOS паттернов](https://maleevdimka.files.wordpress.com/2013/04/ios-patterns-cliff-notes2.pdf) (PDF)
 * [Become an XCoder](https://yadi.sk/d/ugz7jW4RXLGTN)
+* [Хрестоматия iOS паттернов](https://maleevdimka.files.wordpress.com/2013/04/ios-patterns-cliff-notes2.pdf) (PDF)
 * [Цикл статей разработки под Apple iOS](http://habrahabr.ru/post/149090/)
 
 
@@ -201,10 +207,10 @@
 
 ### Python
 
+* [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone/)
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython/) - Swaroop C H
 * [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)
-* [Problem Solving with Algorithms and Data Structures](http://aliev.me/runestone/)
 
 
 ### PostgreSQL
@@ -226,18 +232,18 @@
 
 ### Ruby
 
+* [Ruby](https://ru.wikibooks.org/wiki/Ruby) - Викиучебник
+* [Ruby Book](https://github.com/Krugloff/rus_ruby_book) - Круглов А.
 * [Ruby за двадцать минут](https://www.ruby-lang.org/ru/documentation/quickstart/)
-* [Ruby](https://github.com/Krugloff/rus_ruby_book) - Круглов А.
-* [Ruby](http://ru.wikibooks.org/wiki/Ruby) - Викиучебник
 * [Учись программировать](http://www.shokhirev.com/mikhail/ruby/ltp/title.html) - Крис Пайн
 
 
-### RSpec
+#### RSpec
 
 * [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org/ru)
 
 
-### Ruby on Rails
+#### Ruby on Rails
 
 * [Ruby on Rails Tutorial. Изучение Rails на Примерах](http://railstutorial.ru/chapters/4_0/beginning) Майкл Хартл
 * [Ruby on Rails по-русски](http://rusrails.ru)
@@ -245,7 +251,7 @@
 
 ### Rust
 
-* [Язык программирования Rust](http://kgv.github.io/rust_book_ru/)
+* [Язык программирования Rust](http://rurust.github.io/rust_book_ru/)
 
 
 ### Scala
